@@ -1,0 +1,92 @@
+{
+    "staff": {
+        "1415307417893470448": {
+            "total_deals": 2,
+            "total_amt_usd": 17.16,
+            "total_amt_inr": 0
+        },
+        "1401161640522682418": {
+            "total_deals": 4,
+            "total_amt_usd": 14.1,
+            "total_amt_inr": 750.0
+        }
+    },
+    "clients": {
+        "1148212773151580170": {
+            "total_deals": 1,
+            "total_amt_usd": 1.0,
+            "total_amt_inr": 0
+        },
+        "1435542324502462494": {
+            "total_deals": 1,
+            "total_amt_usd": 16.16,
+            "total_amt_inr": 0
+        },
+        "689352661782495354": {
+            "total_deals": 2,
+            "total_amt_usd": 7.84,
+            "total_amt_inr": 750.0
+        },
+        "1423972538320425021": {
+            "total_deals": 1,
+            "total_amt_usd": 1.0,
+            "total_amt_inr": 0
+        },
+        "1442216012765466847": {
+            "total_deals": 1,
+            "total_amt_usd": 5.26,
+            "total_amt_inr": 0
+        }
+    },
+    "daily": {
+        "2025-11-26": {
+            "total_deals": 1,
+            "total_amt_usd": 1.0,
+            "total_amt_inr": 0
+        },
+        "2025-11-27": {
+            "total_deals": 1,
+            "total_amt_usd": 16.16,
+            "total_amt_inr": 0
+        },
+        "2025-12-02": {
+            "total_deals": 1,
+            "total_amt_usd": 0,
+            "total_amt_inr": 750.0
+        },
+        "2025-12-03": {
+            "total_deals": 1,
+            "total_amt_usd": 1.0,
+            "total_amt_inr": 0
+        },
+        "2025-12-05": {
+            "total_deals": 1,
+            "total_amt_usd": 7.84,
+            "total_amt_inr": 0
+        },
+        "2025-12-12": {
+            "total_deals": 1,
+            "total_amt_usd": 5.26,
+            "total_amt_inr": 0
+        }
+    },
+    "monthly": {
+        "2025-11": {
+            "total_deals": 2,
+            "total_amt_usd": 17.16,
+            "total_amt_inr": 0
+        },
+        "2025-12": {
+            "total_deals": 4,
+            "total_amt_usd": 14.1,
+            "total_amt_inr": 750.0
+        }
+    },
+    "yearly": {
+        "2025": {
+            "total_deals": 6,
+            "total_amt_usd": 31.259999999999998,
+            "total_amt_inr": 750.0
+        }
+    }
+}

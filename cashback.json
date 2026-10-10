@@ -1,0 +1,1976 @@
+{
+    "SWAPPYCASHBACK-QXZ1WRCY": {
+        "user_id": 1431389989073326185,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AGAA1ENL": {
+        "user_id": 1431389989073326185,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-6QVK8PNM": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "8076054957@kotak811",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GMAHZMHF": {
+        "user_id": 1431389989073326185,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2EMOPT24": {
+        "user_id": 1431997138350510101,
+        "amount": 1,
+        "upi_id": "meenakshi8@slc",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AF8RDIV8": {
+        "user_id": 689484703426019342,
+        "amount": 2,
+        "upi_id": "9871838701@dhani",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L4YVNNT1": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "8076054957@kotak811",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-U70EQB5N": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-KAXCX3IA": {
+        "user_id": 1146832252307767408,
+        "amount": 2,
+        "upi_id": "7973959237@upi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5Z8PF3OH": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "8076054957@kotak811",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-V41BM441": {
+        "user_id": 1426086978998505585,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-XZTF6M23": {
+        "user_id": 1307953131757371452,
+        "amount": 2,
+        "upi_id": "8076054957@kotak811",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-6JTHHBRO": {
+        "user_id": 1413561210145603685,
+        "amount": 1,
+        "upi_id": "meenakshi180@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JZ1WQYOP": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BBBDVZC2": {
+        "user_id": 1419007444226412695,
+        "amount": 1,
+        "upi_id": "tomararnav@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-4X9CWFB6": {
+        "user_id": 1355127634505236572,
+        "amount": 3,
+        "upi_id": "spearxsensi@okicici",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-N7TBDKQ2": {
+        "user_id": 1424939404627017789,
+        "amount": 3,
+        "upi_id": "9755614746@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-8YJ22GDD": {
+        "user_id": 1299668841974202388,
+        "amount": 1,
+        "upi_id": "9709782512@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MXEVS8PL": {
+        "user_id": 1052439899304906813,
+        "amount": 1,
+        "upi_id": "9709782512@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-4LNH3WT7": {
+        "user_id": 1421170324757680271,
+        "amount": 2,
+        "upi_id": "letthethingshappen@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NRSKZ09X": {
+        "user_id": 1263453624315412503,
+        "amount": 1,
+        "upi_id": "gulatimadhav024@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YP1MS4Q6": {
+        "user_id": 1277868568100339759,
+        "amount": 1,
+        "upi_id": "6289348703@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-W25HZGIZ": {
+        "user_id": 1355127634505236572,
+        "amount": 3,
+        "upi_id": "spearxsensi@okicici",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WUIC7359": {
+        "user_id": 1412028698709852181,
+        "amount": 1,
+        "upi_id": "tanishxd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VEE0XO9F": {
+        "user_id": 564766778203570176,
+        "amount": 5,
+        "upi_id": "siddharthvk@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OJMM9XAI": {
+        "user_id": 1224945897914372199,
+        "amount": 1,
+        "upi_id": "jackpatel89@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RPK0KC0Q": {
+        "user_id": 1437421568245633035,
+        "amount": 1,
+        "upi_id": "xavierlol@yespop",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5HC8M5PZ": {
+        "user_id": 1299668841974202388,
+        "amount": 1,
+        "upi_id": "9709782512@fan",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CAA9AEWY": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "9495707947@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3E12RB6O": {
+        "user_id": 1430319681205702768,
+        "amount": 8,
+        "upi_id": "rishik.pahwa21@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GESK60PB": {
+        "user_id": 1224945897914372199,
+        "amount": 5,
+        "upi_id": "jackpatel89@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-08RQZYKQ": {
+        "user_id": 1352271536874065990,
+        "amount": 1,
+        "upi_id": "pratik99@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7S7WU0S0": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-9SA2XUIW": {
+        "user_id": 1224945897914372199,
+        "amount": 2,
+        "upi_id": "jackpatel89@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-V5LTWCN5": {
+        "user_id": 1224945897914372199,
+        "amount": 1,
+        "upi_id": "gojo69@slice",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IIV3NWA5": {
+        "user_id": 1430791691627004095,
+        "amount": 5,
+        "upi_id": "notanshu@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-902EZFEK": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-PHWGTIAU": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "9495707947@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-4N26KDRR": {
+        "user_id": 1352251917589545001,
+        "amount": 1,
+        "upi_id": "jadecredx@axl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BZKGSQNW": {
+        "user_id": 1352251917589545001,
+        "amount": 1,
+        "upi_id": "jadecredx@axl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FYWX6OP4": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-URWE6DJG": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NREWWMFS": {
+        "user_id": 821935781471977493,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-C0FEPXKB": {
+        "user_id": 1404008568495144983,
+        "amount": 1,
+        "upi_id": "xdevansh@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-UPTKE50D": {
+        "user_id": 348538012126150667,
+        "amount": 1,
+        "upi_id": "Muzammilsyd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-38VQNNG9": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "8368142181",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-P1PPM99W": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "9495707947@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-XOBFSGEZ": {
+        "user_id": 1424939404627017789,
+        "amount": 1,
+        "upi_id": "9755614746@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-S1OCT7B1": {
+        "user_id": 866707024083025921,
+        "amount": 2,
+        "upi_id": "8251021042@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MTK18QOM": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "6367729745@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MCX6JIPJ": {
+        "user_id": 1423690504956153857,
+        "amount": 1,
+        "upi_id": "Ishanyt@axl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-SNM0NUAU": {
+        "user_id": 1253923480475533412,
+        "amount": 1,
+        "upi_id": "8758011311@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-1MNBCPQ1": {
+        "user_id": 1238919283132731402,
+        "amount": 1,
+        "upi_id": "rudranshagg@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-T9JEE01M": {
+        "user_id": 839765341118660650,
+        "amount": 1,
+        "upi_id": "9330642893@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2S05IHBK": {
+        "user_id": 1352251917589545001,
+        "amount": 8,
+        "upi_id": "jade@slc",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NAY0QW3M": {
+        "user_id": 751466178911797308,
+        "amount": 1,
+        "upi_id": "abhishek15x@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QY9KOPEM": {
+        "user_id": 1423690504956153857,
+        "amount": 1,
+        "upi_id": "Sejkar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-HCY80Y6S": {
+        "user_id": 1435486514854367273,
+        "amount": 1,
+        "upi_id": "Sejkar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MPCR9SZL": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QV363FCU": {
+        "user_id": 1327447080394031155,
+        "amount": 3,
+        "upi_id": "Vishvaskumar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-TDK1BKNR": {
+        "user_id": 1421170324757680271,
+        "amount": 1,
+        "upi_id": "letthethingshappen@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7V6KRANU": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GNWUMY26": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "6367729745@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2PZIR0RJ": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "83684421",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VDCB32BY": {
+        "user_id": 1396947558856921140,
+        "amount": 8,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-8OFWK412": {
+        "user_id": 801033940797358120,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RTXZASPM": {
+        "user_id": 866707024083025921,
+        "amount": 1,
+        "upi_id": "8251021042@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-EQWC4KS0": {
+        "user_id": 1352271536874065990,
+        "amount": 1,
+        "upi_id": "pratik99@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WR4AQ6KI": {
+        "user_id": 1439103443074547712,
+        "amount": 1,
+        "upi_id": "ayushbiswas74@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L2GK9STM": {
+        "user_id": 1432983816284409889,
+        "amount": 1,
+        "upi_id": "madanman2-1@okaxis",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-8K7V6GJC": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VYQ3EPA4": {
+        "user_id": 302616483622551584,
+        "amount": 1,
+        "upi_id": "1RUPEE BRUH",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-75GA5S0U": {
+        "user_id": 1256093468833611806,
+        "amount": 1,
+        "upi_id": "9229270558@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NSLU09QW": {
+        "user_id": 1352251917589545001,
+        "amount": 1,
+        "upi_id": "jadecredx@axl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-9A4O9IBR": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L7LIB49L": {
+        "user_id": 1340117853319200849,
+        "amount": 1,
+        "upi_id": "7980666199@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-1K9ARJXR": {
+        "user_id": 1052439899304906813,
+        "amount": 1,
+        "upi_id": "9827595170@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IX75WMBO": {
+        "user_id": 791311545538838558,
+        "amount": 1,
+        "upi_id": "Vedant020212@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3DEZGA6I": {
+        "user_id": 1085938510055354388,
+        "amount": 1,
+        "upi_id": "Jadugar69@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5CIIEKPW": {
+        "user_id": 1422515270865391616,
+        "amount": 3,
+        "upi_id": "vikhyathchowdary31@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-XYO42EDG": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-US9GPHPO": {
+        "user_id": 302616483622551584,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OVLH6QKV": {
+        "user_id": 1406561937113878539,
+        "amount": 2,
+        "upi_id": "8073019899@nye",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-HXKG8W76": {
+        "user_id": 875762302782173198,
+        "amount": 1,
+        "upi_id": "xavierlol@yespop",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7P241KIV": {
+        "user_id": 1256093468833611806,
+        "amount": 1,
+        "upi_id": "9229270558@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-A4XHRJRP": {
+        "user_id": 867303604187824138,
+        "amount": 1,
+        "upi_id": "soumyadip41@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7FDNQVPT": {
+        "user_id": 1430947506048733397,
+        "amount": 1,
+        "upi_id": "Kushporwal07@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-LD58FMWJ": {
+        "user_id": 1408875732796444795,
+        "amount": 3,
+        "upi_id": "amogh9@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-M900EGD0": {
+        "user_id": 1426086978998505585,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CJBLOPPX": {
+        "user_id": 1352271536874065990,
+        "amount": 1,
+        "upi_id": "pratik99@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VQB67NIV": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "P",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-DY2FT5F0": {
+        "user_id": 1401161640522682418,
+        "amount": 1,
+        "upi_id": "Gaurav209@ptaxis",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FMS9XLWZ": {
+        "user_id": 1401161640522682418,
+        "amount": 3,
+        "upi_id": "gaurav209@ptaxis",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JM7H151X": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "rajeevrajeev@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-KFKAI317": {
+        "user_id": 1307953131757371452,
+        "amount": 1,
+        "upi_id": "9310286977@kotak811",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-A8XX7KPO": {
+        "user_id": 1406561937113878539,
+        "amount": 1,
+        "upi_id": "8073019899@nye",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-DNGIVNY6": {
+        "user_id": 1426086978998505585,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ON3X8O3Z": {
+        "user_id": 1255597488660938834,
+        "amount": 1,
+        "upi_id": "candynodes@ptyes",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YI2M12AT": {
+        "user_id": 1351149450441261097,
+        "amount": 1,
+        "upi_id": "beevi@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Y6Q08BIU": {
+        "user_id": 801033940797358120,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QIWODS9Q": {
+        "user_id": 1431284924463448114,
+        "amount": 5,
+        "upi_id": "9755614746@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-H86NUS3R": {
+        "user_id": 1431284924463448114,
+        "amount": 1,
+        "upi_id": "9755614746@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QYPVRCWH": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OBZ3K8O1": {
+        "user_id": 642361064809562123,
+        "amount": 1,
+        "upi_id": "9310286977@kotak811",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-6CNGOL8J": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-N783JYEA": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5RK3ISRR": {
+        "user_id": 1355127634505236572,
+        "amount": 1,
+        "upi_id": "spearxsensi@okicici",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OUEBKMRT": {
+        "user_id": 1148212773151580170,
+        "amount": 2,
+        "upi_id": "sahilpayme@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WX40WHO5": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "6367729745@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ZX667PZB": {
+        "user_id": 1442528323619000382,
+        "amount": 1,
+        "upi_id": "soujanya-with-racks@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-8VXUFDM4": {
+        "user_id": 1352271536874065990,
+        "amount": 1,
+        "upi_id": "pratik99@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-II74DTKC": {
+        "user_id": 1341287334414389278,
+        "amount": 1,
+        "upi_id": "rohanagrawal@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CHJVMVVW": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "narendramodi@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-42QY5AB5": {
+        "user_id": 1419617569324666920,
+        "amount": 1,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WMW6LA41": {
+        "user_id": 1401161640522682418,
+        "amount": 1,
+        "upi_id": "gaurav209@ptaxis",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-HP4ZUKM6": {
+        "user_id": 1401161640522682418,
+        "amount": 1,
+        "upi_id": "gaurav209@ptaxis",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Q9IF2VQ7": {
+        "user_id": 610690058638327808,
+        "amount": 1,
+        "upi_id": "mrhunterkrish414-2@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-4N5AO2WP": {
+        "user_id": 821935781471977493,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MMZMLS9F": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-HRHSYEBX": {
+        "user_id": 779565853804462110,
+        "amount": 1,
+        "upi_id": "8427756469@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2ER1GH1P": {
+        "user_id": 779565853804462110,
+        "amount": 1,
+        "upi_id": "8427756469@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WCWI48JI": {
+        "user_id": 821935781471977493,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-C2HVI2SN": {
+        "user_id": 821935781471977493,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OL80S9QP": {
+        "user_id": 1355127634505236572,
+        "amount": 1,
+        "upi_id": "spearxsensi@okicici",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AP60ORSV": {
+        "user_id": 1195347620609130599,
+        "amount": 1,
+        "upi_id": "singhpsc@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GIQ6L0A7": {
+        "user_id": 866707024083025921,
+        "amount": 3,
+        "upi_id": "8251021042@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ROGMGTWI": {
+        "user_id": 610690058638327808,
+        "amount": 1,
+        "upi_id": "mrhunterkrish414-2@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-XTY1823S": {
+        "user_id": 1164916640970973254,
+        "amount": 3,
+        "upi_id": "Saiudvith@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CS83K5ZA": {
+        "user_id": 330919125905833986,
+        "amount": 1,
+        "upi_id": "32bit@slc",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-B7PQ7XI6": {
+        "user_id": 1438701810503389268,
+        "amount": 1,
+        "upi_id": "sudarshankundu876-1@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JQDCCBLC": {
+        "user_id": 1421170324757680271,
+        "amount": 1,
+        "upi_id": "letthethingshappen@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OSNEX046": {
+        "user_id": 779565853804462110,
+        "amount": 1,
+        "upi_id": "8427756469@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-94U1UXH5": {
+        "user_id": 1419298393360171108,
+        "amount": 1,
+        "upi_id": "8263870409@dhani",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BYM6ZYET": {
+        "user_id": 1253923480475533412,
+        "amount": 1,
+        "upi_id": "8758011311@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MFTP4H1K": {
+        "user_id": 821935781471977493,
+        "amount": 2,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RJNV8SEE": {
+        "user_id": 1256093468833611806,
+        "amount": 2,
+        "upi_id": "9229270558@ybl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BICLXNYF": {
+        "user_id": 1415674282868215829,
+        "amount": 3,
+        "upi_id": "sathvikpithani@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-LCW9Y1WO": {
+        "user_id": 1415674282868215829,
+        "amount": 1,
+        "upi_id": "sathvikpithani@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ANANGTPZ": {
+        "user_id": 1253923480475533412,
+        "amount": 1,
+        "upi_id": "8758011311@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5G018G9T": {
+        "user_id": 1403262035675975764,
+        "amount": 1,
+        "upi_id": "Swappy On Top @ Good Wishes",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QFUOMYFN": {
+        "user_id": 1419617569324666920,
+        "amount": 5,
+        "upi_id": "paytogovind@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-9813FAD4": {
+        "user_id": 1433382629108875326,
+        "amount": 1,
+        "upi_id": "himanshusamal@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7TAJHJ0R": {
+        "user_id": 1415674282868215829,
+        "amount": 1,
+        "upi_id": "sathvikpithani@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-0SV1CFIY": {
+        "user_id": 1106501417759428638,
+        "amount": 2,
+        "upi_id": "mkarmakar843@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7TZW53E2": {
+        "user_id": 1256093468833611806,
+        "amount": 1,
+        "upi_id": "9229270558@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-23W6LT9U": {
+        "user_id": 1438701810503389268,
+        "amount": 1,
+        "upi_id": "sudarshankundu876-1@oksbi",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FH5B60IY": {
+        "user_id": 1329390728488423476,
+        "amount": 1,
+        "upi_id": "prafullyadav@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Z3R1AYYM": {
+        "user_id": 1439365756172239031,
+        "amount": 2,
+        "upi_id": "Sejkar@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GMNT8Y0T": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxkastura",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5QLGSMWT": {
+        "user_id": 727186855644233829,
+        "amount": 5,
+        "upi_id": "ishan.mafiaking@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JZN9DOZQ": {
+        "user_id": 821935781471977493,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-K4FJ0Q8T": {
+        "user_id": 588450974377574415,
+        "amount": 1,
+        "upi_id": "7021559103@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2GA9VAER": {
+        "user_id": 801033940797358120,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-KYBQ35E4": {
+        "user_id": 776320947488555008,
+        "amount": 1,
+        "upi_id": "7275487019@ptyes",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NPP50FA8": {
+        "user_id": 839765341118660650,
+        "amount": 1,
+        "upi_id": "9330642893@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-UB7V1T6D": {
+        "user_id": 1238919283132731402,
+        "amount": 1,
+        "upi_id": "rudranshagg@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-I4R6WH6E": {
+        "user_id": 801033940797358120,
+        "amount": 2,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-08OAKX92": {
+        "user_id": 1352251917589545001,
+        "amount": 5,
+        "upi_id": "jadecredx@axl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Z1B532X6": {
+        "user_id": 1326267694009548941,
+        "amount": 1,
+        "upi_id": "rani.exe@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-4U3G6MFY": {
+        "user_id": 875762302782173198,
+        "amount": 3,
+        "upi_id": "xavierlol@yespop",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-KQVID2FK": {
+        "user_id": 875762302782173198,
+        "amount": 1,
+        "upi_id": "Xavierlol@yespop",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IDQOQXQF": {
+        "user_id": 1400480122024235069,
+        "amount": 1,
+        "upi_id": "ranawatharshvardhan348@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-U1YFHKV2": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-UF1RJ55J": {
+        "user_id": 1432626534677614635,
+        "amount": 3,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-0BYP5UFR": {
+        "user_id": 1432349862149619784,
+        "amount": 1,
+        "upi_id": "shubham0962@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WQ6WCNO0": {
+        "user_id": 1432626534677614635,
+        "amount": 3,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-N2YWSQGI": {
+        "user_id": 1433548319753375755,
+        "amount": 1,
+        "upi_id": "SVWAK04XDZSTJCH",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-PTGN57O9": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JXQVCUDD": {
+        "user_id": 1400480122024235069,
+        "amount": 3,
+        "upi_id": "ranawat.harshvardhan@ptyes",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7OY1OK6U": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-G68NKA4W": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-C3YF1ZBW": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-LXOR87ZT": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-16V3CTG2": {
+        "user_id": 564766778203570176,
+        "amount": 1,
+        "upi_id": "siddharthvk@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-TR07LAAM": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7H6OYKTQ": {
+        "user_id": 1329390728488423476,
+        "amount": 1,
+        "upi_id": "prafullyadav@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-T2RMT9HQ": {
+        "user_id": 1148212773151580170,
+        "amount": 1,
+        "upi_id": "sahilpayme@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BZ3FMTM7": {
+        "user_id": 1442216012765466847,
+        "amount": 8,
+        "upi_id": "8076054957@kotak811",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IVZOBI4F": {
+        "user_id": 1391100713509322903,
+        "amount": 1,
+        "upi_id": "mrhunterkrish414-2@sbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IIVXAQ3Z": {
+        "user_id": 1351149450441261097,
+        "amount": 1,
+        "upi_id": "beevi@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-1BCJN4GH": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WAEK9GA9": {
+        "user_id": 1413924678510317658,
+        "amount": 3,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-N1G6FA5N": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-U1JF7GFC": {
+        "user_id": 625323314935627796,
+        "amount": 1,
+        "upi_id": "krishnasharan@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-A9AJ2ZZ5": {
+        "user_id": 1052439899304906813,
+        "amount": 1,
+        "upi_id": "9827595170@ybl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YLRHRUF5": {
+        "user_id": 1351149450441261097,
+        "amount": 2,
+        "upi_id": "beevi@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-UHZR51TJ": {
+        "user_id": 1301757623023960087,
+        "amount": 1,
+        "upi_id": "itsmenikhilhere@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RDLJENY5": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "tejasjain1@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3L3TKA7Y": {
+        "user_id": 1416039018273177661,
+        "amount": 1,
+        "upi_id": "rieek@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AUHHOJEO": {
+        "user_id": 1442216012765466847,
+        "amount": 1,
+        "upi_id": "rajeevrajeev@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YU5AAO21": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MD54I6TA": {
+        "user_id": 1433382629108875326,
+        "amount": 1,
+        "upi_id": "himanshusamal@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AJWYN8KN": {
+        "user_id": 1256093468833611806,
+        "amount": 1,
+        "upi_id": "9229270558@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3LWST1V7": {
+        "user_id": 1256093468833611806,
+        "amount": 1,
+        "upi_id": "9229270558@ybl",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2VAB38LI": {
+        "user_id": 1301757623023960087,
+        "amount": 1,
+        "upi_id": "itsmenikhilhere@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5023FRX1": {
+        "user_id": 1421170324757680271,
+        "amount": 2,
+        "upi_id": "letthethingshappen@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CU0IAZS8": {
+        "user_id": 1148212773151580170,
+        "amount": 1,
+        "upi_id": "sahilpayme@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OSZV4ESJ": {
+        "user_id": 1421170324757680271,
+        "amount": 3,
+        "upi_id": "letthethingshappen@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MY4U8WR7": {
+        "user_id": 1148212773151580170,
+        "amount": 1,
+        "upi_id": "sahilpayme@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-X0YAT4BW": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-45KKGALP": {
+        "user_id": 866707024083025921,
+        "amount": 1,
+        "upi_id": "8251021042@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Q8QZAQZ3": {
+        "user_id": 949682134572994570,
+        "amount": 1,
+        "upi_id": "shreyas7341@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-EWFEMLCJ": {
+        "user_id": 1416065164154769410,
+        "amount": 1,
+        "upi_id": "keshavdalania@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WKU8YAUB": {
+        "user_id": 1148212773151580170,
+        "amount": 1,
+        "upi_id": "sahilpayme@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FMKRZ49T": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GRG082XI": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L65K5764": {
+        "user_id": 302616483622551584,
+        "amount": 2,
+        "upi_id": "21thakur@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YFYKWXJH": {
+        "user_id": 925331792238616587,
+        "amount": 1,
+        "upi_id": "muhibmalakpetboss@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QU50CC8P": {
+        "user_id": 1044276425269727252,
+        "amount": 1,
+        "upi_id": "Jadugar69@ybl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-N87WOX9U": {
+        "user_id": 1442216012765466847,
+        "amount": 1,
+        "upi_id": "8076054957@kotak811",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-AHDFI121": {
+        "user_id": 1163513656328339549,
+        "amount": 1,
+        "upi_id": "shulkamaruti@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VRB2784X": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5KFZYO7K": {
+        "user_id": 1403262035675975764,
+        "amount": 1,
+        "upi_id": "garvisnotop@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-0O8SJLCL": {
+        "user_id": 1329390728488423476,
+        "amount": 8,
+        "upi_id": "prafullyadav@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-A5L5CI4V": {
+        "user_id": 727186855644233829,
+        "amount": 1,
+        "upi_id": "ishan.mafiaking@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WLVFH558": {
+        "user_id": 1435472062067245118,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JTD6PM6Z": {
+        "user_id": 1435472062067245118,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FSZBRCON": {
+        "user_id": 1244188836133867602,
+        "amount": 1,
+        "upi_id": "Sudarshankundu876-@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-8ORG616H": {
+        "user_id": 727186855644233829,
+        "amount": 1,
+        "upi_id": "ishan.mafiaking@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-TQ2M7S92": {
+        "user_id": 1442216012765466847,
+        "amount": 3,
+        "upi_id": "8076054957@kotak811",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-IFZKO1DN": {
+        "user_id": 1441392764183908525,
+        "amount": 1,
+        "upi_id": "9045442144@mbk",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ROXLVHA5": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-200GSEG6": {
+        "user_id": 866707024083025921,
+        "amount": 1,
+        "upi_id": "8251021042@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-PTOY1A7I": {
+        "user_id": 1415307417893470448,
+        "amount": 1,
+        "upi_id": "TY",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-B3B96BTE": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-S5CA2YR0": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3R410771": {
+        "user_id": 875762302782173198,
+        "amount": 1,
+        "upi_id": "Xavierlol@yespop",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YUR0XSRN": {
+        "user_id": 727186855644233829,
+        "amount": 1,
+        "upi_id": "ishan.mafiaking@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-7EB9RSFY": {
+        "user_id": 727186855644233829,
+        "amount": 1,
+        "upi_id": "ishan.mafiaking@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-1AN8SWRH": {
+        "user_id": 1428122983200981078,
+        "amount": 1,
+        "upi_id": "SWAPPYCASHBACK-1AN8SWRH",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-5GWYU6LF": {
+        "user_id": 1432626534677614635,
+        "amount": 2,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-F9CATP8E": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-M3ZIYPF5": {
+        "user_id": 1432626534677614635,
+        "amount": 8,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-V63LQO0T": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-U824C2UR": {
+        "user_id": 1426249771743707147,
+        "amount": 1,
+        "upi_id": "abhishek15x@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FVWWOG63": {
+        "user_id": 1413924678510317658,
+        "amount": 1,
+        "upi_id": "9827977088@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Z1O5SKBA": {
+        "user_id": 1426249771743707147,
+        "amount": 1,
+        "upi_id": "abhishek15x@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-69KS3BSO": {
+        "user_id": 312673207612080128,
+        "amount": 2,
+        "upi_id": "ayaazahmad@fam",
+        "status": "sent",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L7H0PVZT": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RSYG9GWD": {
+        "user_id": 1439291498934829099,
+        "amount": 1,
+        "upi_id": "8287830346@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BJ8T4XF0": {
+        "user_id": 1406561937113878539,
+        "amount": 3,
+        "upi_id": "8073019899@airtel",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-EGV9E74H": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "tejasjain1@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-TMJ2UQBY": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-EI3VVKNI": {
+        "user_id": 1396947558856921140,
+        "amount": 1,
+        "upi_id": "Gzxsamarthkumar@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-U0DUIM8K": {
+        "user_id": 894102115423768626,
+        "amount": 1,
+        "upi_id": "yugyt26@oksbi",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-VQXB355Q": {
+        "user_id": 1231128213103710299,
+        "amount": 3,
+        "upi_id": "9409713868@mbk",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-POQ1M4KX": {
+        "user_id": 1231128213103710299,
+        "amount": 1,
+        "upi_id": "9409713868@mbk",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-94C68PWF": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JELLE9U7": {
+        "user_id": 1439291498934829099,
+        "amount": 1,
+        "upi_id": "8287830346@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BGIRUZTG": {
+        "user_id": 1379731119452192808,
+        "amount": 1,
+        "upi_id": "8618437462@ybl",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-L00E9Z86": {
+        "user_id": 1402889608336769026,
+        "amount": 2,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RL4M0YC2": {
+        "user_id": 866707024083025921,
+        "amount": 2,
+        "upi_id": "8251021042@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-BS6613FJ": {
+        "user_id": 1432626534677614635,
+        "amount": 1,
+        "upi_id": "aadarsh.xd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-FQ1U1QVL": {
+        "user_id": 302616483622551584,
+        "amount": 1,
+        "upi_id": "21thakur@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-A4AKDYN8": {
+        "user_id": 1439291498934829099,
+        "amount": 1,
+        "upi_id": "8287830346@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-2CKTITUF": {
+        "user_id": 1402525003974447165,
+        "amount": 1,
+        "upi_id": "bhunia1@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JM5GGTE7": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-WB1UODD7": {
+        "user_id": 1351149450441261097,
+        "amount": 5,
+        "upi_id": "beevi@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-NOMUE4U1": {
+        "user_id": 348538012126150667,
+        "amount": 1,
+        "upi_id": "muzammilsyd@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ZC1W6T40": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "tejasjain1@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-1IAWO8VX": {
+        "user_id": 1148212773151580170,
+        "amount": 1,
+        "upi_id": "sahilpayme@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-F30LYJWU": {
+        "user_id": 1231128213103710299,
+        "amount": 1,
+        "upi_id": "zaladharmrajsinh@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-DLYHQUHI": {
+        "user_id": 322171980080087052,
+        "amount": 1,
+        "upi_id": "9250670641@omni",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Z9SQG5Y7": {
+        "user_id": 1430845587036831810,
+        "amount": 1,
+        "upi_id": "9289684977@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-19FFG6RP": {
+        "user_id": 1430845587036831810,
+        "amount": 2,
+        "upi_id": "9289684977@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-ACP4JEPZ": {
+        "user_id": 1402889608336769026,
+        "amount": 1,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-PMWD1E26": {
+        "user_id": 641480114781159425,
+        "amount": 1,
+        "upi_id": "hr-gaurav@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-86M86ZFT": {
+        "user_id": 641480114781159425,
+        "amount": 5,
+        "upi_id": "hr-gaurav@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-OTYFO778": {
+        "user_id": 1441704754412785714,
+        "amount": 1,
+        "upi_id": "jashithbhatti@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-RNJWMU87": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-3V1NI799": {
+        "user_id": 1396063243327508591,
+        "amount": 5,
+        "upi_id": "tejasjain1@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-CK5O7AW5": {
+        "user_id": 1433382629108875326,
+        "amount": 5,
+        "upi_id": "himanshusamal@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-YX596OI8": {
+        "user_id": 1010103483048919180,
+        "amount": 1,
+        "upi_id": "yashpalbhati@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Q1VHQKI8": {
+        "user_id": 1247830482561798205,
+        "amount": 1,
+        "upi_id": "bilalm2013@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-TYTOR7HL": {
+        "user_id": 1247830482561798205,
+        "amount": 1,
+        "upi_id": "bilalm2013@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-Z5JGS5ZU": {
+        "user_id": 967183265469460500,
+        "amount": 1,
+        "upi_id": "9986084310@omni",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-GUSZ82YD": {
+        "user_id": 1441704754412785714,
+        "amount": 1,
+        "upi_id": "aarav.zz@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-MO79ESJ5": {
+        "user_id": 312673207612080128,
+        "amount": 1,
+        "upi_id": "ayaazahmad@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-64PV4FA8": {
+        "user_id": 1385654777224101992,
+        "amount": 1,
+        "upi_id": "prateekagarwal01@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-D1GZ5XXX": {
+        "user_id": 1402889608336769026,
+        "amount": 3,
+        "upi_id": "ullasfr@fam",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-QTLAVFX9": {
+        "user_id": 1442216012765466847,
+        "amount": 1,
+        "upi_id": "8076054957@kotak811",
+        "status": "pending",
+        "claimed": true
+    },
+    "SWAPPYCASHBACK-JWON1O33": {
+        "user_id": 1396063243327508591,
+        "amount": 1,
+        "upi_id": "tejasjain1@fam",
+        "status": "pending",
+        "claimed": true
+    }
+}

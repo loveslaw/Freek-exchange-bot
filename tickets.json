@@ -1,0 +1,26 @@
+{
+    "i2c": {
+        "counter": 9,
+        "active": {}
+    },
+    "paypal2c": {
+        "counter": 2,
+        "active": {}
+    },
+    "c2c": {
+        "counter": 1,
+        "active": {}
+    },
+    "pkr2c": {
+        "counter": 7,
+        "active": {}
+    },
+    "c2pkr": {
+        "counter": 5,
+        "active": {}
+    },
+    "c2i": {
+        "counter": 2,
+        "active": {}
+    }
+}

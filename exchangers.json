@@ -1,0 +1,14 @@
+{
+    "1432041326039535777": {
+        "name": "paothx.main",
+        "limit_usd": 10.0,
+        "limit_inr": 920.0,
+        "limit_pkr": 2600.0
+    },
+    "1415307417893470448": {
+        "name": "taha.decors",
+        "limit_usd": 10.0,
+        "limit_inr": 920.0,
+        "limit_pkr": 2600.0
+    }
+}
