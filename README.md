@@ -1,15 +1,12 @@
 # Freek-exchange-bot
 
-Preserved and managed from Satyam's tools collection. Synced automatically via **Cherry 🍒**.
+Open-source project and utility tools.
 
 ## 🚀 Overview
-- **Project**: `Freek-exchange-bot`
-- **Original Source**: `Freek_exchange_bot.rar`
-- **Owner**: [loveslaw](https://github.com/loveslaw)
-- **Visibility**: Public
+Extracted source files, configs, and documentation for `Freek-exchange-bot`.
 
-## 📁 Repository Structure
-Contains unbundled source files, scripts, and configurations.
+## 📦 Contents
+All project files extracted directly at repository root.
 
 ---
-*Maintained by [loveslaw](https://github.com/loveslaw) & powered by Cherry.*
+*Maintained by [loveslaw](https://github.com/loveslaw)*
